@@ -6,8 +6,9 @@ I love `Consolas` for its state-of-the-art bold and italic and excellent hinting
 
 **This is the Original `Consolas`:**
 
-![consolas-original](https://cloud.githubusercontent.com/assets/7059765/4875320/b38980b8-6291-11e4-854b-5e6e468e7810.PNG)
+![consolas-original](https://user-images.githubusercontent.com/7059765/27511926-ca8148d6-5939-11e7-9636-6dbf917f2d42.PNG)
 
 **And that is `ConsolasHigh` with increased line-height:**
 
-![consolas-high](https://cloud.githubusercontent.com/assets/7059765/4875321/b6ae32d4-6291-11e4-8ffd-03ad6ef78bb9.PNG)
+![consolas-high-line](https://user-images.githubusercontent.com/7059765/27511925-ca4ccf0c-5939-11e7-865b-1628771bb4fc.PNG)
+
